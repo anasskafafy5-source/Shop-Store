@@ -227,3 +227,29 @@
 footer{
     margin-top: 100px;
 }
+
+
+@media (max-width: 767px) {
+    .item .right-total-price{
+        display: none;
+    }
+    .item .left{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    .item .left .image{
+        width: 100%;
+        height: 280px;
+        margin-bottom: 15px;
+    }
+    .item .left img{
+        width: 100% !important;
+        height: 100% !important;
+        border-radius: 4px;
+    }
+    .item .left .handle-product-number{
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
