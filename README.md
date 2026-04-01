@@ -8,7 +8,7 @@
 ![Responsive](https://img.shields.io/badge/Design-Fully%20Responsive-brightgreen)
 
 **Experience a modern shopping interface with clean code and advanced logic.** <br />
-[✨ Explore Live Demo](magical-frangollo-ea25ee.netlify.app)
+[✨ Explore Live Demo](https://magical-frangollo-ea25ee.netlify.app/pages/home.html)
 
 </div>
 
