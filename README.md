@@ -8,7 +8,7 @@
 ![Responsive](https://img.shields.io/badge/Design-Fully%20Responsive-brightgreen)
 
 **Experience a modern shopping interface with clean code and advanced logic.** <br />
-[✨ Explore Live Demo](https://marvelous-arithmetic-d88da0.netlify.app/pages/home.html)
+[✨ Explore Live Demo](https://peaceful-chaja-228020.netlify.app/pages/home.html)
 
 </div>
 
@@ -58,7 +58,7 @@
 ```text
 Shop Store/
 ├── assets/
-│   └── imgs/         # UI screenshots (Img1.PNG to Img6.PNG)
-├── css/              # Professional styling architecture
-├── js/               # Core business logic, Filtering & Cart rules
-└── pages/            # View layers and main entry points
+│   └── imgs/          # UI screenshots (Img1.PNG to Img6.PNG)
+├── css/               # Professional styling architecture
+├── js/                # Core business logic, Filtering & Cart rules
+└── pages/             # View layers and main entry points
