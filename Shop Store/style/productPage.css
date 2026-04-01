@@ -23,7 +23,7 @@
     padding-right: 10px;
 }
 .product-page .image img{
-    width: 100%;
+    width: 60%;
     margin-bottom: 40px;
 }
 .product-page .category{
@@ -98,4 +98,10 @@
     width: 95%;
     margin: auto;
     margin-bottom: 100px;
+}
+
+@media (max-width: 767px) {
+    .product-page .image img{
+        width: 100%;
+    }
 }
